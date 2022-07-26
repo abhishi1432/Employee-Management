@@ -1,0 +1,74 @@
+{
+  "notes": [
+    {
+      "title": "Read",
+      "text": "Hello",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Call Ravi",
+      "text": "Track the new submissions"
+    },
+    {
+      "title": "Capitalism",
+      "text": "Mark Twain",
+      "id": 3
+    },
+    {
+      "title": "Virat and Anushka's Reception",
+      "text": "Sing \"Channa Mereya Mereya\"",
+      "id": 4
+    },
+    {
+      "title": "qwsqws",
+      "text": "wqsw",
+      "id": 5
+    },
+    {
+      "title": "Captain of Black Pearl",
+      "text": "Captain Jack Sparrow",
+      "id": 6
+    },
+    {
+      "title": "Review Assignment",
+      "text": "submit status by day end",
+      "id": 7
+    },
+    {
+      "title": "Complete Review",
+      "text": "submit status by 19-sept",
+      "id": 8
+    },
+    {
+      "title": "my note",
+      "text": "my note text",
+      "id": 9
+    },
+    {
+      "title": "test @output",
+      "text": "testing for add note",
+      "id": 10
+    },
+    {
+      "title": "First Note",
+      "text": "First Note added on 12-oct-2020",
+      "id": 11
+    },
+    {
+      "title": "JavaNote",
+      "text": "This is about java\n",
+      "id": 12
+    },
+    {
+      "title": "",
+      "text": "",
+      "id": 13
+    },
+    {
+      "title": "Node Application",
+      "text": "Node",
+      "id": 14
+    }
+  ]
+}

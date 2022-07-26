@@ -1,0 +1,15 @@
+<small class="errorMessage">{{ errorMessage }}</small>
+<form [formGroup]="loginForm">
+  <div>
+    <input type="text" placeholder="Username" formControlName="username" />
+    <small> {{ getUserNameErrorMessage() }}</small>
+  </div>
+  <div>
+    <input type="password" placeholder="Password" formControlName="password" />
+    <small> {{ getPasswordErrorMessage() }}</small>
+  </div>
+
+  <div>
+    <button [disabled]="loginForm.invalid" (click)="login()">Login</button>
+  </div>
+</form>
